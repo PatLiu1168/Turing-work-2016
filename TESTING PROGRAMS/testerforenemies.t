@@ -1,0 +1,1 @@
+%Tester for loading enemies
